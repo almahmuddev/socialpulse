@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "alex.johnson@example.com",
+    "days_since_contact": 16,
+    "status": "overdue",
+    "tags": ["college", "gym buddy"],
+    "bio": "We studied CS together. Loves hiking and coffee.",
+    "goal": 14,
+    "next_due_date": "2026-05-01"
+  },
+  {
+    "id": 2,
+    "name": "Maria Garcia",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "maria.g@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "Met at my first job. Incredible designer.",
+    "goal": 30,
+    "next_due_date": "2026-05-25"
+  },
+  {
+    "id": 3,
+    "name": "Sam Wilson",
+    "picture": "https://randomuser.me/api/portraits/men/22.jpg",
+    "email": "sam.wilson@example.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["family", "cousin"],
+    "bio": "My favorite cousin. We share a love for basketball.",
+    "goal": 14,
+    "next_due_date": "2026-05-03"
+  },
+  {
+    "id": 4,
+    "name": "Priya Sharma",
+    "picture": "https://randomuser.me/api/portraits/women/63.jpg",
+    "email": "priya.s@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["book club", "neighbor"],
+    "bio": "We met at the local library. Great taste in books.",
+    "goal": 30,
+    "next_due_date": "2026-06-01"
+  },
+  {
+    "id": 5,
+    "name": "David Chen",
+    "picture": "https://randomuser.me/api/portraits/men/52.jpg",
+    "email": "david.chen@example.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["work", "project partner"],
+    "bio": "Worked on the big Q3 project together. Always helpful.",
+    "goal": 14,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 6,
+    "name": "Emily Davis",
+    "picture": "https://randomuser.me/api/portraits/women/17.jpg",
+    "email": "emily.d@example.com",
+    "days_since_contact": 8,
+    "status": "on-track",
+    "tags": ["yoga", "wellness"],
+    "bio": "My yoga buddy. Keeps me accountable.",
+    "goal": 7,
+    "next_due_date": "2026-04-23"
+  }
+]
